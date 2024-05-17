@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:09-05-2024
-## Register Number:212221040068
-## Name:K.Charitha 
+## Register Number:212223040055
+## Name:R.K.Hari prasath
 ## Problem Title
 **"GreenTech Exchange: Locate, Educate, Reward"**
 ## Problem Description
